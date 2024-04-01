@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Mina Ayman and I'm a Flutter Developer, from Egypt</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating Mobile Apps since Two years<br>📚 I'm currently learning more about flutter and several databases<br>🎯 Goals: Land my first job</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with Dart</h2>
 
 ###
 
