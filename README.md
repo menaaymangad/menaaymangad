@@ -5,6 +5,7 @@
 I usually own projects end-to-end: product thinking, Flutter implementation, API integration, Firebase/Supabase setup, offline-first flows, performance tuning, deployment, and store delivery.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-minaayman--portfolio.netlify.app-111111?style=for-the-badge&logo=netlify&logoColor=white)](https://minaayman-portfolio.netlify.app)
+[![Case Studies](https://img.shields.io/badge/Case_Studies-production_work-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menaaymangad/case-studies)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mina--ayman--gad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-ayman-gad/)
 [![Email](https://img.shields.io/badge/Email-menaaymangad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menaaymangad@gmail.com)
 
@@ -29,7 +30,7 @@ I usually own projects end-to-end: product thinking, Flutter implementation, API
 | **Import & Export System** | Desktop management system | Offline-first desktop app for trading operations | Optimized SQLite-backed workflows, reduced manual operations, and improved internal data retrieval speed. |
 | **Nano City** | Marketplace mobile app | Flutter UI, REST API integration, and shopping-flow improvements | Improved product browsing performance and fixed critical UI issues in high-traffic shopping screens. |
 
-> Most production repositories are private client/product work. Public details and case studies are available on my portfolio.
+> Most production repositories are private client/product work. Public-safe writeups are available in my [case studies repository](https://github.com/menaaymangad/case-studies) and on my [portfolio](https://minaayman-portfolio.netlify.app).
 
 ---
 
